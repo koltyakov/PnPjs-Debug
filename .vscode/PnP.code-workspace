@@ -1,0 +1,12 @@
+{
+  "folders": [{
+      "path": "..\\..\\PnPjs"
+    },
+    {
+      "path": "..\\..\\PnPjs-Debug"
+    }
+  ],
+  "settings": {
+    "typescript.tsdk": "node_modules/typescript/lib"
+  }
+}

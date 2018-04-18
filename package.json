@@ -1,0 +1,20 @@
+{
+  "name": "pnp-js-core-debug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ARVO\\andrew.koltyakov <andrew.koltyakov@arvosys.com>",
+  "license": "MIT",
+  "scripts": {
+    "init": "ts-node ./utils/init.ts"
+  },
+  "dependencies": {
+    "deep-assign": "^2.0.0",
+    "sp-pnp-node": "^2.0.2"
+  },
+  "devDependencies": {
+    "ts-node": "^6.0.0",
+    "tslint": "^5.9.1",
+    "tslint-config-standard": "^7.0.0",
+    "typescript": "^2.8.1"
+  }
+}
